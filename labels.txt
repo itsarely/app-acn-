@@ -1,0 +1,6 @@
+0 Puntos negros
+1 Puntos blancos
+2 Pústulas
+3 Pápulas
+4 Quistes
+5 Nódulos
